@@ -50,7 +50,7 @@ cursor: pointer;}
 }
 
 
-.heder-act-s {
+.heder-act-s {color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -108,7 +108,7 @@ color:#4d5ae5;
 }
 .web-studio:hover.web-studio:focus{color: #404bbf;
 }
-.web-studio-log {
+.weblog {
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
