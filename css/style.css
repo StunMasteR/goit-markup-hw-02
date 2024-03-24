@@ -85,14 +85,22 @@ cursor: pointer;}
 .adnav{font-style: normal
 }
 
-.contact{font-weight: 400;
+.contact-mails{font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.contact:hover,.contact:focus{color: #404bbf;
+.contact-mails:hover,.contact-mails{color: #404bbf;
 }
+.contact-tel{font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
+.contact-tel:hover,.contact-tel:focus{color: #404bbf;}
+
+
 
 ul{
 list-style: none; 
