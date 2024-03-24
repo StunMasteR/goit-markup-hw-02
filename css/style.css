@@ -65,8 +65,11 @@ cursor: pointer;}
 
 .hewn:hover{ color: #404bbf;}
 .hewn:focus {color: #404bbf;
-
 }
+
+    .hed:hover,.hed:focus{color: #404bbf;}
+
+
 
 
 .ad-nav{font-style: normal;
