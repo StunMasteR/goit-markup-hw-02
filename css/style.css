@@ -90,9 +90,12 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4d5ae5;
+color:#2e2f42;
 }
+.web-studio:hover.web-studio:focus{color: #404bbf;
 
+
+}
 /*------------ main----------- */
 .list-title1 {
     font-weight: 700;
@@ -101,7 +104,7 @@ color: #4d5ae5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 text-transform: capitalize;
-
+text-align: center;
 
 }
 
@@ -138,7 +141,7 @@ font-weight: 400;
     color: #F4F4FD;
 }
 
-    .studio2{color: #f4f4fd;
+    .stu{color: #f4f4fd;
     font-family:raleway,sans-serif;
     font-weight: 700;
         font-size: 18px;
