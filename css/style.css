@@ -19,22 +19,14 @@ font-weight: 700;
 
 
 .logo-title{background-color: #2E2F42;}
-.studio1{
-    color: #2E2F42;
-font-family: raleway,sans-serif;
-font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
+
 
 
 .team{background-color: #F4F4FD;
 
 }
 
-.list-title2 {
+.list-title-b {
 font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -44,7 +36,7 @@ font-weight: 700;
 
 }
 /* ---------header--------- */
-.button-1{background-color: #4D5AE5;
+.button-a{background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -53,7 +45,7 @@ font-weight: 700;
     background-color: #4D5AE5;
 cursor: pointer;}
 
-.button-1:hover,.button-1:focus{color: #ffffff;
+.button-a:hover,.button-a:focus{color: #ffffff;
     background-color: #404BBF;
 }
 
@@ -126,7 +118,7 @@ color:#4d5ae5;
         color: #4d5ae5;
 }
 /*------------ main----------- */
-.list-title1 {
+.list-title-a {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
