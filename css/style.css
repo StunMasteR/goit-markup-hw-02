@@ -7,7 +7,7 @@ body{font-family:"Roboto",sans-serif;
 
 }
 p{font-style: normal}
-.color-title{color:#4D5AE5;
+.col-title{color:#4D5AE5;
 font-family: raleway;
 }
 
@@ -21,7 +21,7 @@ font-family: raleway;;
 
 }
 
-.heder1 {
+.list-title2 {
 font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
@@ -68,7 +68,7 @@ list-style: none;
 
 
 /*------------ main----------- */
-.heder2 {
+.list-title1 {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
@@ -77,7 +77,7 @@ list-style: none;
 }
 
 
-.header3{font-weight: 500;
+.list-title{font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
