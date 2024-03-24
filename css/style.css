@@ -49,7 +49,7 @@ cursor: pointer;}
     background-color: #404BBF;
 }
 
-.heder-ac {
+.hed {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -57,7 +57,7 @@ cursor: pointer;}
     color: #2e2f42;
 }
 
-.heder-ac:hover.heder-ac:focus {color: #404bbf;
+.hed:hover.hed:focus {color: #404bbf;
 
 }
 
