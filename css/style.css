@@ -64,7 +64,7 @@ cursor: pointer;}
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455
+   color: #2e2f42;
 }
 
 .heder-act:hover.heder-act:focus {
@@ -96,7 +96,7 @@ cursor: pointer;}
 }
 .contact:hover,.contact{color: #404bbf;
 }
-
+.contact-li{color: #434455;}
 
 
 ul{
