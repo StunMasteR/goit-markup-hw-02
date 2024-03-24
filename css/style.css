@@ -49,38 +49,19 @@ cursor: pointer;}
     background-color: #404BBF;
 }
 
-
-.heder-act-s {color: #2e2f42;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.heder-act-s:hover.heder-act-s:focus{color: #404bbf;}
-
 .heder-act {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-   color: #2e2f42;
+    color: #2e2f42;
 }
 
 .heder-act:hover.heder-act:focus {
     color: #404bbf;
 }
-.heder-act-co {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
 
-.heder-act-co:hover.heder-act-co:focus {
-    color: #404bbf;
-}
+
 
 .ad-nav{font-style: normal;
     color: #434455;
@@ -88,7 +69,8 @@ cursor: pointer;}
 
 .ad-nav:hover,.ad-nav:focus{color:#404bbf ;}
 
-.contact{font-weight: 400;
+.contact{  color: #434455;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
