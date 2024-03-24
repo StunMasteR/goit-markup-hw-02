@@ -62,7 +62,8 @@ cursor: pointer;}
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
+.hed:hover.hed:focus {
+    color: #404bbf;
 .hewn:hover.hewn:focus {color: #404bbf;
 
 }
@@ -83,7 +84,7 @@ cursor: pointer;}
 }
 .contact:hover,.contact{color: #404bbf;
 }
-.contact-tel{color: #434455;}
+.contact{color: #434455;}
 
 
 ul{
