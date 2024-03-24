@@ -59,7 +59,7 @@ cursor: pointer;}
 }
 .heder-act-s:hover.heder-act-s:focus{color: #404bbf;}
 
-.heder-act-po {
+.heder-act {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -67,7 +67,7 @@ cursor: pointer;}
     color: #2e2f42;
 }
 
-.heder-act-po:hover.heder-act-po:focus {
+.heder-act:hover.heder-act:focus {
     color: #404bbf;
 }
 .heder-act-co {
