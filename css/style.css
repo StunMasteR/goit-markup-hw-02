@@ -1,0 +1,108 @@
+body{font-family:"Roboto",sans-serif;
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+
+}
+
+.color-title{color:#4D5AE5;
+font-family: raleway;
+}
+
+
+.logo-title{background-color: #2E2F42;}
+.studio1{color: #2E2F42;
+font-family: raleway;;
+}
+
+.team{background-color: #F4F4FD;
+
+}
+
+.heder1 {
+font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    color: #fff;
+
+}
+/* ---------header--------- */
+.button-1{font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #2e2f42;}
+
+.button-1:hover{background-color: #404bbf;}
+
+.heder-act{font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.heder-act:hover{color: #404bbf;
+}
+.heder-act:active{color: #404bbf;
+
+}
+
+.contact{font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.contact:hover{color:#404bbf;
+}
+
+ul{
+list-style: none; 
+}
+
+
+/*------------ main----------- */
+.heder2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+
+.header3{font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+
+    .p-text{font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;}
+
+
+/* --------footer------- */
+.logo-footer{background-color: #2E2F42
+}
+
+.footer-text{
+font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+
+    .studio2{color: #F4F4FD;
+    font-family:raleway;
+    }
