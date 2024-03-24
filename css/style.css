@@ -37,8 +37,8 @@ font-weight: 700;
 .list-title2 {
 font-weight: 700;
     font-size: 56px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
     color: #fff;
     text-align: center
 
@@ -48,7 +48,8 @@ font-weight: 700;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #2e2f42;
+    color: #ffffff;
+
 cursor: pointer;}
 
 .button-1:hover,.button-1:focus{color: #ffffff;
@@ -74,7 +75,7 @@ cursor: pointer;}
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
 }
 
 .contact:hover.contact:focus{color:#404bbf;
@@ -99,9 +100,9 @@ color: #4d5ae5;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    text-align: center
-    
-    
+text-transform: capitalize;
+
+
 }
 
 
@@ -145,3 +146,17 @@ font-weight: 400;
         letter-spacing: 0.03em;
         text-transform: uppercase
     }
+.front{font-family: "Raleway",
+    sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+
+
+
+
