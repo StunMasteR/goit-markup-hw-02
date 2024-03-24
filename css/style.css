@@ -63,7 +63,8 @@ cursor: pointer;}
     color: #2e2f42;
 }
 
-.hewn:hover,.hewn:focus {color: #404bbf;
+.hewn:hover{ color: #404bbf;}
+.hewn:focus {color: #404bbf;
 
 }
 
@@ -84,7 +85,7 @@ cursor: pointer;}
     letter-spacing: 0.02em;
     color: #434455;
 }
-.contact:hover,.contact{color: #404bbf;
+.contact:hover,.contact:focus{color: #404bbf;
 }
 .contact{color: #434455;}
 
