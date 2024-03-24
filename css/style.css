@@ -3,19 +3,32 @@ body{font-family:"Roboto",sans-serif;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #2e2f42;
+        color: #434455;
+        background-color:#ffffff;
 
 }
 p{font-style: normal}
 .col-title{color:#4D5AE5;
-font-family: raleway;
+font-family: raleway,sans-serif;
+font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase
 }
 
 
 .logo-title{background-color: #2E2F42;}
-.studio1{color: #2E2F42;
-font-family: raleway;;
+.studio1{
+    color: #2E2F42;
+font-family: raleway,sans-serif;
+font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+     text-transform: uppercase
 }
+
 
 .team{background-color: #F4F4FD;
 
@@ -24,9 +37,10 @@ font-family: raleway;;
 .list-title2 {
 font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
-    letter-spacing: 0.02em;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     color: #fff;
+    text-align: center
 
 }
 /* ---------header--------- */
@@ -37,7 +51,9 @@ font-weight: 700;
     color: #2e2f42;
 cursor: pointer;}
 
-.button-1:hover{background-color: #404bbf;}
+.button-1:hover,.button-1:focus{color: #ffffff;
+    background-color: #4D5AE5;
+}
 
 .heder-act{font-weight: 500;
     font-size: 16px;
@@ -46,10 +62,12 @@ cursor: pointer;}
     color: #2e2f42;
 }
 
-.heder-act:hover{color: #404bbf;
+.heder-act:hover.heder-act:focus{color: #404bbf;
 }
 .heder-act:active{color: #404bbf;
 
+}
+.ad-nav{font-style: normal
 }
 
 .contact{font-weight: 400;
@@ -59,22 +77,35 @@ cursor: pointer;}
     color: #434455;
 }
 
-.contact:hover{color:#404bbf;
+.contact:hover.contact:focus{color:#404bbf;
 }
 
 ul{
 list-style: none; 
 }
-
+.web-studio{font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
 
 /*------------ main----------- */
 .list-title1 {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-align: center
+    
+    
 }
+
+
+.photo-team{background-color: #ffffff;}
 
 
 .list-title{font-weight: 500;
@@ -82,6 +113,7 @@ list-style: none;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-transform: capitalize
 }
 
 
@@ -89,7 +121,8 @@ list-style: none;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #434455;}
+        color: #434455;
+    }
 
 
 /* --------footer------- */
@@ -104,6 +137,11 @@ font-weight: 400;
     color: #F4F4FD;
 }
 
-    .studio2{color: #F4F4FD;
-    font-family:raleway;
+    .studio2{color: #f4f4fd;
+    font-family:raleway,sans-serif;
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase
     }
