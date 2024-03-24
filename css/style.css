@@ -49,17 +49,17 @@ cursor: pointer;}
     background-color: #404BBF;
 }
 
-.heder-act {color: #2e2f42;
+.heder-act {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
-.heder-act:hover.heder-act:focus {
-    color:   #404bbf;
-}
+.heder-act:hover.heder-act:focus {color:#404bbf ;
 
+}
 
 
 .ad-nav{font-style: normal;
