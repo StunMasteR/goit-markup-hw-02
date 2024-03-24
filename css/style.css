@@ -26,7 +26,7 @@ font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-     text-transform: uppercase
+    text-transform: uppercase;
 }
 
 
@@ -56,12 +56,21 @@ cursor: pointer;}
     background-color: #4D5AE5;
 }
 
-.heder-act{font-weight: 500;
+.heder-act-{font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
+.heder-act-s {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
 
 .heder-act:hover.heder-act:focus{color: #404bbf;
 }
@@ -90,7 +99,7 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color:#2e2f42;
+color:#4d5ae5;
 }
 .web-studio:hover.web-studio:focus{color: #404bbf;
 
@@ -141,13 +150,14 @@ font-weight: 400;
     color: #F4F4FD;
 }
 
-    .stu{color: #f4f4fd;
+    .stu{
     font-family:raleway,sans-serif;
     font-weight: 700;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
-        text-transform: uppercase
+        text-transform: uppercase;
+        color:#2e2f42;
     }
 .front{font-family: "Raleway",
     sans-serif;
@@ -160,6 +170,12 @@ font-weight: 400;
 }
 
 
-
-
+.stu-t{color: #f4f4fd;
+    font-family: raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
 
