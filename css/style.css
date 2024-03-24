@@ -44,13 +44,13 @@ font-weight: 700;
 
 }
 /* ---------header--------- */
-.button-1{font-weight: 500;
+.button-1{background-color: #4D5AE5;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
     background-color: #4D5AE5;
-
 cursor: pointer;}
 
 .button-1:hover,.button-1:focus{color: #ffffff;
