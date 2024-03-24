@@ -49,19 +49,14 @@ font-weight: 700;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    background-color: #4D5AE5;
 
 cursor: pointer;}
 
 .button-1:hover,.button-1:focus{color: #ffffff;
-    background-color: #4D5AE5;
+    background-color: #404BBF;
 }
 
-.heder-act-{font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
 
 .heder-act-s {
     font-weight: 500;
@@ -72,12 +67,29 @@ cursor: pointer;}
 }
 .heder-act-s:hover.heder-act-s:focus{color: #404bbf;}
 
-
-.heder-act:hover.heder-act:focus{color: #404bbf;
+.heder-act-po {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
-.heder-act:active{color: #404bbf;
 
+.heder-act-po:hover.heder-act-po:focus {
+    color: #404bbf;
 }
+.heder-act-co {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.heder-act-co:hover.heder-act-co:focus {
+    color: #404bbf;
+}
+
 .ad-nav{font-style: normal
 }
 
@@ -85,7 +97,7 @@ cursor: pointer;}
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455;
 }
 
 .contact:hover.contact:focus{color:#404bbf;
