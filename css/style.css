@@ -6,7 +6,7 @@ body{font-family:"Roboto",sans-serif;
         color: #2e2f42;
 
 }
-
+p{font-style: normal}
 .color-title{color:#4D5AE5;
 font-family: raleway;
 }
@@ -34,7 +34,8 @@ font-weight: 700;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #2e2f42;}
+    color: #2e2f42;
+cursor: pointer;}
 
 .button-1:hover{background-color: #404bbf;}
 
