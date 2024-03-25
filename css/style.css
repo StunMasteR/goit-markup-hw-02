@@ -67,8 +67,6 @@ cursor: pointer;}
     .hed:hover,.hed:focus{color: #404bbf;}
 
 
-
-
 .ad-nav{font-style: normal;
     color: #434455;
 }
@@ -89,6 +87,7 @@ cursor: pointer;}
 }
 .contact{color: #434455;}
 
+a{text-decoration: none;}
 
 ul{
 list-style: none; 
